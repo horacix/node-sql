@@ -2,7 +2,7 @@
   "author": "brianc <brian.m.carlson@gmail.com>",
   "name": "sql",
   "description": "sql builder",
-  "version": "0.78.0-var1",
+  "version": "0.78.0-var2",
   "homepage": "https://github.com/brianc/node-sql",
   "license": "MIT",
   "repository": {
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "sliced": "0.0.x",
-    "lodash": "4.1.x"
+    "lodash": "4.17.x"
   },
   "devDependencies": {
     "jshint": "*",
